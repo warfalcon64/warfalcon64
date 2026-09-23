@@ -10,4 +10,4 @@ WebMedTools Website (In Progress, Solo Project). Changing hosting plans right no
 
 ### Note for Prospective Employers:
 
-In accordance with the University of Chicago academic honesty policy, I am able to share proof of coding competency in any of my coursework through links to private course repositories. This can be done during interview with a prospective employer, or upon direct request. Please feel free to send me a request for proof of competency beyond my public repositories at the following email address: amritm@uchicago.edu
+In accordance with the University of Chicago academic honesty policy, I am able to share proof of coding competency in any of my coursework through links to private course repositories. This can be done during interview with a prospective employer, or upon direct request. Please feel free to send me a request for proof of competency beyond my public repositories at the following email address: amritmenon108@gmail.com
