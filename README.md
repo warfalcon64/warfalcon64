@@ -1,6 +1,6 @@
 ## Master Repository
 
-My name is Amrit Menon. I am currently pursuing an M.S.E in Computer Science at Johns Hopkins University with an interest in applying machine learning to medicine. In my free time I work on game development and personal projects.
+My name is Amrit Menon. I am currently pursuing an M.S.E in Computer Science at Johns Hopkins University with an interest in applying machine learning to medicine. In my free time I work on game development alongside personal projects pertaining to various interests.
 
 ## My Favorite Projects:
 
