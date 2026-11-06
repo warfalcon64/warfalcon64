@@ -4,7 +4,7 @@ My name is Amrit Menon. I am currently pursuing an M.S.E in Computer Science at 
 
 ## My Favorite Projects:
 
-Blue Baron (In Progress, Solo Project): https://github.com/warfalcon64/Blue-Baron
+Blue Baron (In Progress, Solo Project): https://github.com/warfalcon64/Blue-Baron-Showcase
 
 WebMedTools Website (In Progress, Solo Project): https://webmedtools.com/
 
